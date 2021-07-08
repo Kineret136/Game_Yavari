@@ -2,7 +2,7 @@
 ## SOBRE LE PROYECTO 
 ### Descripción: <br />
 Yavari es un juego de plataformas, que consta de 3 niveles, con la temática de promover la riqueza cultural del Lampa, Puno, Perú. De forma breve Yavari le da ha conocer al jugador un poco acerca de Lampa, la ciudad rosada. <br />
-Nota: Es un juego sin restricción de edad y de aventura.<br />
+> Nota: Es un juego sin restricción de edad y de aventura.<br />
 ### Objetivo: <br />
 EL objetivo de este proyecto es exponer la diversidad tangible e intangible del Perú centrandose en el distrito de lampa Perú. <br />
 El objetivo del juego es superar los niveles siguiendo las pistas que se otorgan al inicio de cada nivel. <br />
