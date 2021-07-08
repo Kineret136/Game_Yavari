@@ -27,4 +27,5 @@ En el desarrollo de un videojuego de deben tener en cuenta diferentes factores, 
    GameMaker Community. (2021, July 8). Retrieved July 8, 2021, from GameMaker Community website: https://forum.yoyogames.com/index.php<br />
    Pikbest. (2021). Retrieved July 8, 2021, from Pikbest website: https://es.pikbest.com/<br />
    Retro Arcade Game Sound Effects | Free Download | The Motion Monkey. (2015). Retrieved July 8, 2021, from Themotionmonkey.co.uk website: https://www.themotionmonkey.co.uk/free-resources/retro-arcade-sounds/<br />
-
+### Link de descarga del ejecutable: <br />
+https://drive.google.com/uc?export=download&id=1VQOqh-ANjVIWiZ6xsIlOXGamCPNivs2u
